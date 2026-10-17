@@ -99,5 +99,6 @@
 
 ---
 **Связаться со мной:**
-* Telegram: @ваш_ник
-* Email: ваш@email.com
+* Telegram: @grigoclubro | https://t.me/grigoclubro
+* Email: atomnyjkorrespondent@gmail.com
+
