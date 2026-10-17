@@ -64,7 +64,7 @@
 ![Яндекс.Метрика: Новые посетители и Вернувшиеся](/po-auditorii.png) 
 ![TildaStore: Сумма заказов](/summa-zakazov.png)
 ![PageSpeed Insights: Оценка производительности мобильной версии](/proverka-mobile.png)
-![Google Search Console: Количество показов](/proverka-mobile.png)
+![Google Search Console: Количество показов](/koko-vsego_pokazov.png)
 
 ---
 
